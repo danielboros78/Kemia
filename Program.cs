@@ -15,7 +15,13 @@ namespace Kémia
       MasodikFeladat();
       HarmadikFeladat();
       NegyedikFeladat();
+      OtodikFeladat();
       Console.ReadKey();
+    }
+
+    private static void OtodikFeladat()
+    {
+
     }
 
     private static void NegyedikFeladat()
